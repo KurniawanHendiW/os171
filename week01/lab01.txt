@@ -20,3 +20,4 @@ drwxr-xr-x  2 kurniawan.hendi StafCS 4096 Feb 15 16:56 week09
 drwxr-xr-x  2 kurniawan.hendi StafCS 4096 Feb 15 16:56 week10
 drwxr-xr-x  2 kurniawan.hendi StafCS 4096 Feb 15 16:58 xtra
 /home/fasilkom/mahasiswa/k/kurniawan.hendi/os171/week01
+Today is 15 Feb 2017 at 22:32:06
