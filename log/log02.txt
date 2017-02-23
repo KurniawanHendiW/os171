@@ -1,0 +1,3 @@
+w02-170221-19-LR-About: Learning protection and security, From: Lecturer
+w02-170221-20-PS-About: Learning programming C in the class
+w02-170224-03-PS-About: Complete the tasks week02

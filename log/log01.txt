@@ -1,0 +1,3 @@
+w01-170214-19-LR-About: Introduction about shell scripting, From: Lecturer
+w01-170214-20-PS-About: Learing shell scripting in LAB, From: Lecturer
+w01-170216-22-PS-About: Complete the tasks week01
