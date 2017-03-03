@@ -1,0 +1,4 @@
+w03-170228-19-LR-About: Kuis in the class, From : Lecturer
+w03-170228-20-PS-About: Install OS debian, learn init.d in lab, From : Lecturer
+w03-170304-01-PS-About: Complete the tasks week03
+
