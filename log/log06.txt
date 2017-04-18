@@ -1,0 +1,2 @@
+w06-170411-19-LR-About: Process dan Thread, From : Lecturer
+w06-170414-17-PS-About: Complete the task6
